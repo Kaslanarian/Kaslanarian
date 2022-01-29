@@ -1,10 +1,11 @@
-### Hi there 👋
+## :smile: Hi!
 
-<!--
-**Kaslanarian/Kaslanarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**My GitHub stat looks like ...**
+<table width="1200px"><tr>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaslanarian&show_icons=true&count_private=true&hide=prs&theme=graywhite" border=0></td>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaslanarian&langs_count=3" border=0></td>
+</tr></table
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
