@@ -8,7 +8,9 @@ Welt Xing, an undergraduate in AI school, Nanjing University. My interests inclu
 - Deep learning method and framework.
 - Machine learning theory (Interested but know little).
 
-In [my blog](https://welts.xyz), I record what I learn daily (absolutely not everyday).
+In [my blog](https://welts.xyz), I record what I've learn:
+
+![1](tags.png)
 
 ### My stat
 
