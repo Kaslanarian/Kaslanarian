@@ -6,4 +6,4 @@
 <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaslanarian&langs_count=3" border=0></td>
 </tr></table
 
- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=AVdEYWPFkRb_pFaq5zYrlP09VDBmDYc_y6i7vb0A-qU"></script>
+<a href="https://clustrmaps.com/site/1bp1k" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=AVdEYWPFkRb_pFaq5zYrlP09VDBmDYc_y6i7vb0A-qU&cl=ffffff"></a>
