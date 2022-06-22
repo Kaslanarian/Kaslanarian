@@ -5,5 +5,3 @@
 <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaslanarian&show_icons=true&count_private=true&hide=prs&theme=graywhite" border=0></td>
 <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaslanarian&langs_count=3" border=0></td>
 </tr></table
-
-<a href="https://clustrmaps.com/site/1bp1k" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=AVdEYWPFkRb_pFaq5zYrlP09VDBmDYc_y6i7vb0A-qU&cl=ffffff"></a>
