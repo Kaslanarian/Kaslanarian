@@ -10,7 +10,7 @@ Welt Xing, an undergraduate in AI school, Nanjing University. My interests inclu
 
 In [my blog](https://welts.xyz), I record what I've learn:
 
-![1](tags.png)
+<img src="tags.png" alt="1" style="zoom:67%;" />
 
 ### My stat
 
