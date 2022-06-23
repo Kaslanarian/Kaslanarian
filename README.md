@@ -27,10 +27,10 @@ Your stars, forks and issues are most welcome and appreciated :partying_face:.
 - [PyDyNet](https://github.com/Kaslanarian/PySVM): Deep learning framework implementation using Numpy based on Autodiff.
 - ...
 
-### Some future work
+### Some ongoing work
 
-- A Cpp matrix/tensor implementation, and some algorithm (det, inv, svd, etc) based on it.
-- ...
+- A cpp matrix/tensor implementation, and some algorithm (det, inv, svd, etc) based on it.
+- Anomaly detection on traffic.
 
 ### Recent hobby
 
