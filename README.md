@@ -16,7 +16,7 @@ In [my blog](https://welts.xyz), I record what I've learn:
 
 ### My stat
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaslanarian&show_icons=true&count_private=true&hide=prs&theme=graywhite" border=0>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaslanarian&show_icons=true&count_private=true&hide=prs&theme=radical" border=0>
 
 Your stars, forks and issues are most welcome and appreciated :partying_face:.
 
