@@ -20,7 +20,7 @@ In [my blog](https://welts.xyz), I record what I've learn:
 
 Your stars, forks and issues are most welcome and appreciated :partying_face:.
 
-### Some naive work
+### Some fininshed and undating work
 
 - [libsvm-sc-reading](https://github.com/Kaslanarian/libsvm-sc-reading): A Chinese version manual to explain how [LIBSVM](https://github.com/cjlin1/libsvm) works.
 - [PySVM](https://github.com/Kaslanarian/PySVM): A NumPy implementation of SVM based on SMO algorithm.
@@ -31,8 +31,9 @@ Your stars, forks and issues are most welcome and appreciated :partying_face:.
 
 - A cpp matrix/tensor implementation, and some algorithm (det, inv, svd, etc) based on it.
 - Anomaly detection on traffic.
+- A GNN framework based on PyDyNet.
 
-### Recent hobby
+### Recent entertainment
 
 Hollow knight: a story of a shadow to a god.
 
