@@ -24,7 +24,7 @@ Your stars, forks and issues are most welcome and appreciated :partying_face:.
 
 - [libsvm-sc-reading](https://github.com/Kaslanarian/libsvm-sc-reading): A Chinese version manual to explain how [LIBSVM](https://github.com/cjlin1/libsvm) works.
 - [PySVM](https://github.com/Kaslanarian/PySVM): A NumPy implementation of SVM based on SMO algorithm.
-- [PyDyNet](https://github.com/Kaslanarian/PySVM): Deep learning framework implementation using Numpy based on Autodiff.
+- [PyDyNet](https://github.com/Kaslanarian/PyDyNet): Deep learning framework implementation using Numpy based on Autodiff.
 - ...
 
 ### Some ongoing work
