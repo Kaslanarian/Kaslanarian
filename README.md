@@ -32,6 +32,7 @@ Your stars, forks and issues are most welcome and appreciated :partying_face:.
 - A cpp matrix/tensor implementation, and some algorithm (det, inv, svd, etc) based on it.
 - Anomaly detection on traffic.
 - A GNN framework based on PyDyNet.
+- **A library for anomaly detection on static attributed graph based on PyG**.
 
 ### Recent entertainment
 
