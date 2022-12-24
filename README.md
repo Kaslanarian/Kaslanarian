@@ -9,6 +9,7 @@ Welt Xing, an undergraduate in AI school, Nanjing University. In Germany, "welt"
 - Machine learning model and their implementation.
 - Deep learning method and framework.
 - Machine learning theory (Interested but know little).
+- Graph learning.
 
 In [my blog](https://welts.xyz), I record what I've learn:
 
