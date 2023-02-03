@@ -27,6 +27,7 @@ Your stars, forks and issues are most welcome and appreciated :partying_face:.
 - [PySVM](https://github.com/Kaslanarian/PySVM): A NumPy implementation of SVM based on SMO algorithm.
 - [PyDyNet](https://github.com/Kaslanarian/PyDyNet): Deep learning framework implementation using Numpy based on Autodiff.
 - [SAGOD](https://github.com/Kaslanarian/SAGOD): A library for anomaly detection on static attributed graph.
+- [LIBOML](https://github.com/Kaslanarian/liboml): A library for online machine learning.
 
 ### Some ongoing work
 
