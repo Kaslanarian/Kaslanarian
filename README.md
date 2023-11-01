@@ -4,7 +4,7 @@ In Quenya, "Nai elen siluva lyenna" means "may the stars shine on you".
 
 ### Who am I?
 
-Welt Xing, an undergraduate in AI school, Nanjing University. In Germany, "welt" means "the world". My interests include:
+Welt Xing, an 1st year graduate in AI school, Nanjing University. In Germany, "welt" means "the world". My interests include:
 
 - Machine learning model and their implementation.
 - Deep learning method and framework.
