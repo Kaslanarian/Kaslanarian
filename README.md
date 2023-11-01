@@ -4,14 +4,14 @@ In Quenya, "Nai elen siluva lyenna" means "May the stars shine on you".
 
 ### Who am I?
 
-Welt Xing, an 1st year graduate in School of Artificial Intelligence, Nanjing University. In Germany, "welt" means the "world". My interests include:
+Welt Xing, a 1st year graduate in the School of Artificial Intelligence, Nanjing University. In Germany, "welt" means the "world". My interests include:
 
 - Machine learning model and their implementation.
 - Deep learning method and framework.
 - Machine learning theory.
 - Graph learning.
 
-In [my blog](https://welts.xyz), I record what I've learn:
+In [my blog](https://welts.xyz), I record what I've learned:
 
 <img src="tags.png" alt="1" style="zoom:67%;" />
 
@@ -19,9 +19,9 @@ In [my blog](https://welts.xyz), I record what I've learn:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaslanarian&show_icons=true&count_private=true&hide=prs&theme=radical" border=0>
 
-Your stars, forks and issues are most welcome and appreciated :partying_face:.
+Your stars, forks, and issues are most welcome and appreciated :partying_face:.
 
-### Some fininshed and undating work
+### Some finished and updating work
 
 - [libsvm-sc-reading](https://github.com/Kaslanarian/libsvm-sc-reading): A Chinese version manual to explain how [LIBSVM](https://github.com/cjlin1/libsvm) works.
 - [PySVM](https://github.com/Kaslanarian/PySVM): A NumPy implementation of SVM based on SMO algorithm.
