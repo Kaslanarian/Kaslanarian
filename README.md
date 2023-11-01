@@ -1,14 +1,14 @@
 ## :smile: Hi! Nai elen siluva lyenna.
 
-In Quenya, "Nai elen siluva lyenna" means "may the stars shine on you".
+In Quenya, "Nai elen siluva lyenna" means "May the stars shine on you".
 
 ### Who am I?
 
-Welt Xing, an 1st year graduate in AI school, Nanjing University. In Germany, "welt" means "the world". My interests include:
+Welt Xing, an 1st year graduate in School of Artificial Intelligence, Nanjing University. In Germany, "welt" means the "world". My interests include:
 
 - Machine learning model and their implementation.
 - Deep learning method and framework.
-- Machine learning theory (Interested but know little).
+- Machine learning theory.
 - Graph learning.
 
 In [my blog](https://welts.xyz), I record what I've learn:
@@ -27,10 +27,4 @@ Your stars, forks and issues are most welcome and appreciated :partying_face:.
 - [PySVM](https://github.com/Kaslanarian/PySVM): A NumPy implementation of SVM based on SMO algorithm.
 - [PyDyNet](https://github.com/Kaslanarian/PyDyNet): Deep learning framework implementation using Numpy based on Autodiff.
 - [SAGOD](https://github.com/Kaslanarian/SAGOD): A library for anomaly detection on static attributed graph.
-- [LIBOML](https://github.com/Kaslanarian/liboml): A library for online machine learning.
 
-### Some ongoing work
-
-- A cpp matrix/tensor implementation, and some algorithm (det, inv, svd, etc) based on it.
-- Anomaly detection on traffic.
-- A GNN framework based on PyDyNet.
