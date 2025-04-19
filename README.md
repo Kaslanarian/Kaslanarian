@@ -10,7 +10,7 @@ Welt Xing, a 2rd year graduate in the School of Artificial Intelligence, Nanjing
 - Deep learning method and framework.
 - Machine learning theory.
 
-In [my blog](https://welts.xyz), I record what I've learned:
+In [my blog](https://xingcy.net), I record what I've learned:
 
 <img src="tags.png" alt="1" style="zoom:67%;" />
 
